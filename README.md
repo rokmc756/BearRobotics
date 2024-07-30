@@ -1,3 +1,8 @@
+### How to Clone this Repository
+~~~
+$ git clone https://github.com/rokmc756/BearRobotics
+~~~
+
 
 ### Implement a simple ATM controller
 ~~~
