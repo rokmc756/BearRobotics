@@ -30,5 +30,5 @@ def ArrayChallenge(str):
     return anagrams
 
 # Test the function
-print(ArrayChallenge("aa aa odg dog gdo"))  # Output should be 2
-
+print("Input: \"aa aa odg dog gdo\"")  # Output should be 2
+print("Output: " + str(ArrayChallenge("aa aa odg dog gdo")))  # Output should be 2

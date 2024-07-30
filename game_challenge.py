@@ -32,7 +32,9 @@ def GameChallenge(strArr):
 
 # Test the function with the provided example
 strArr = ["X", "O", "-", "<>", "-", "O", "-", "<>", "O", "X", "-"]
-print(GameChallenge(strArr))  # Output: 2
+
+print("Input: " + str(strArr))
+print("Output: " + str(GameChallenge(strArr)))  # Output: 2
 
 
 ##################################################################
