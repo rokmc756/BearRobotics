@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Write python3 code for a simple ATM with menu and prompt. It doesn't need any UI (either graphical or console),
+# Simple ATM with menu and prompt. It doesn't need any UI (either graphical or console),
 # but a controller should be implemented and tested.
 # Requirements should be at least the following flow should be implemented:
 # Insert Card => PIN number => Select Account => See Balance/Deposit/Withdraw
